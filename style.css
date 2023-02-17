@@ -1,0 +1,12 @@
+li:hover {
+    transition: 0.4s;
+   color:  #7f53ac;
+   background-color:#c2a7df;
+}
+li{
+    border-radius: 5px;
+}
+.navbar{
+    position: fixed;
+    width: 100%;
+}
